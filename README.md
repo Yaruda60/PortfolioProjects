@@ -28,7 +28,7 @@ Here, you’ll find a variety of work that demonstrates my skills in data analys
 
 
 # Excel Project
-- <a href="https://github.com/Yaruda60/PortfolioProjects/blob/main/CovidProject.sql">Bike Buyers</a>
+- <a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FYaruda60%2FPortfolioProjects%2Frefs%2Fheads%2Fmain%2FExcel%2520Project%2520Dataset.xlsx&wdOrigin=BROWSELINK">Bike Buyers</a>
 
 
 
