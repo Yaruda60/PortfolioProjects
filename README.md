@@ -20,7 +20,7 @@ Here, you’ll find a variety of work that demonstrates my skills in data analys
 - <a href="https://github.com/Yaruda60/PortfolioProjects/blob/main/Formation_3.pbix">Craft beers and breweries Project</a>
 
 ##  Data Profesional Survey Breakdown Dashboard
-- <a href="https://github.com/Yaruda60/PortfolioProjects/blob/main/Craft_beer_dash.png">Loan request</a>
+- <a href="https://github.com/Yaruda60/PortfolioProjects/upload">Loan request</a>
 
 
 
